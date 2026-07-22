@@ -1,0 +1,41 @@
+.search-page {
+  padding: 40px 60px;
+  min-height: 100vh;
+  background: #f8f8f8;
+}
+
+.search-title {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 35px;
+}
+
+
+/* Recipe cards center */
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+
+/* प्रत्येक card size same */
+.recipe-container .recipe-card {
+  width: 300px;
+}
+
+.search-title {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 32px;
+  font-weight: 700;
+  color: #333;
+}
+.search-page {
+  min-height: 100vh;
+  padding: 30px 60px;
+  background-color: #d4b59a;
+}
